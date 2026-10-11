@@ -1,27 +1,7 @@
-# Ejecutables generados al compilar
-*.exe
-*.out
+.exe
 
-# Archivos objeto
-*.o
-*.obj
 
-# Carpetas de compilación
-build/
-bin/
-Debug/
-Release/
+.vscode/
 
-# Archivos de depuración
-*.pdb
-*.ilk
-*.idb
 
-# Archivos temporales y registros
-*.tmp
-*.log
-*.bak
-
-# Archivos del sistema
-.DS_Store
-Thumbs.db
+.out   
